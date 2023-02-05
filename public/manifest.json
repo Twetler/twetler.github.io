@@ -4,9 +4,8 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "/icons/tulio-avatar.ico",
-      "sizes": "36x36",
-      "type": "image/png",
+      "src": "/icons/favicon.ico",
+      "sizes": "16x16",
       "density": "0.75"
     }
   ],
