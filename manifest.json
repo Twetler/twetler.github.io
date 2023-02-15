@@ -1,0 +1,15 @@
+{
+  "name": "masterPortfolio",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icons/favicon.ico",
+      "sizes": "16x16",
+      "density": "0.75"
+    }
+  ],
+  "short_name": "masterPortfolio",
+  "start_url": ".",
+  "theme_color": "#000000"
+}
