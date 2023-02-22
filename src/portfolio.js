@@ -303,7 +303,7 @@ const experience = {
           company_url: "https://www.shooju.com/",
           logo_path: "shooju_logo.svg",
           duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          location: "São Paulo, Brazil",
           description: `- Striving for client's sucesses in using our data platform to ease their workflows through data scraping, modelling and visualization.
             - Scrum master for brazillian team
             - All in one Machine Learning product development`,
