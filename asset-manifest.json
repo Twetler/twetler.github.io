@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.26379a40.chunk.css",
-    "main.js": "/static/js/main.83333577.chunk.js",
-    "main.js.map": "/static/js/main.83333577.chunk.js.map",
+    "main.css": "/static/css/main.e9a69e99.chunk.css",
+    "main.js": "/static/js/main.13abaaf1.chunk.js",
+    "main.js.map": "/static/js/main.13abaaf1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1e453f9.js",
     "runtime-main.js.map": "/static/js/runtime-main.b1e453f9.js.map",
     "static/js/2.63124f6f.chunk.js": "/static/js/2.63124f6f.chunk.js",
     "static/js/2.63124f6f.chunk.js.map": "/static/js/2.63124f6f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bae7ad12f7d34c0ab308019a3c0b29a9.js": "/precache-manifest.bae7ad12f7d34c0ab308019a3c0b29a9.js",
+    "precache-manifest.9f5374b0ba4dbdd55f9d860dbcaf993c.js": "/precache-manifest.9f5374b0ba4dbdd55f9d860dbcaf993c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.26379a40.chunk.css.map": "/static/css/main.26379a40.chunk.css.map",
+    "static/css/main.e9a69e99.chunk.css.map": "/static/css/main.e9a69e99.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/LogoEel.png": "/static/media/LogoEel.cb9a7046.png",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
@@ -47,7 +47,7 @@
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
     "static/media/quero_logo.svg": "/static/media/quero_logo.6d44a576.svg",
-    "static/media/shooju_logo.svg": "/static/media/shooju_logo.af52bcce.svg",
+    "static/media/shooju_logo.svg": "/static/media/shooju_logo.3683ad7c.svg",
     "static/media/solvayLogo.png": "/static/media/solvayLogo.36242e8a.png",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
@@ -59,7 +59,7 @@
   "entrypoints": [
     "static/js/runtime-main.b1e453f9.js",
     "static/js/2.63124f6f.chunk.js",
-    "static/css/main.26379a40.chunk.css",
-    "static/js/main.83333577.chunk.js"
+    "static/css/main.e9a69e99.chunk.css",
+    "static/js/main.13abaaf1.chunk.js"
   ]
 }

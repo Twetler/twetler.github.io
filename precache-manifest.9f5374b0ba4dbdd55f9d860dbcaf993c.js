@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27b81027dd25924ed24348ae932b3590",
+    "revision": "5942cad17b16481303edbaa694e08e8c",
     "url": "/index.html"
   },
   {
-    "revision": "9f4eeda1a899c55731e4",
-    "url": "/static/css/main.26379a40.chunk.css"
+    "revision": "b05460ec31a9bb2c84f8",
+    "url": "/static/css/main.e9a69e99.chunk.css"
   },
   {
     "revision": "9dd418bd641283258d2a",
     "url": "/static/js/2.63124f6f.chunk.js"
   },
   {
-    "revision": "9f4eeda1a899c55731e4",
-    "url": "/static/js/main.83333577.chunk.js"
+    "revision": "b05460ec31a9bb2c84f8",
+    "url": "/static/js/main.13abaaf1.chunk.js"
   },
   {
     "revision": "3ad4472a7800aa8ace49",
@@ -248,8 +248,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/quero_logo.6d44a576.svg"
   },
   {
-    "revision": "af52bcce6c1a188778a7c6e7356ce6ab",
-    "url": "/static/media/shooju_logo.af52bcce.svg"
+    "revision": "3683ad7c1c8ee753ede7dc8523f03c9f",
+    "url": "/static/media/shooju_logo.3683ad7c.svg"
   },
   {
     "revision": "36242e8abc2ce9cb9dbc99473bedbd58",
